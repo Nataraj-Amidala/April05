@@ -1,3 +1,3 @@
-FROM scratch
+FROM ubuntu
 ADD hello /
 CMD ["/hello"]
