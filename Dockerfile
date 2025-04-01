@@ -1,3 +1,3 @@
 FROM ubuntu
-ADD hello /
+ADD hellonew /
 CMD ["/hellonew"]
